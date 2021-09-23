@@ -1,6 +1,6 @@
 {
   "name": "Dollar-Exchange-Extension",
-  "description": "A dollar today extension using Vue.js",
+  "description": "Dollar Exchange Chrome Extension with Vue JS",
   "version": "1.0.0",
   "manifest_version": 2,
   "browser_action": {
