@@ -1,0 +1,10 @@
+{
+  "name": "Dollar-Exchange-Extension",
+  "description": "A dollar today extension using Vue.js",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_title": "Dollar Today Exchange",
+    "default_popup": "index.html"
+  }
+}

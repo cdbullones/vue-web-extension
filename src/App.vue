@@ -1,20 +1,25 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <DollarExchange />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import DollarExchange from '@/components/DollarExchange';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    DollarExchange
   }
 }
 </script>
 
 <style>
+body{
+  background-color: #001835;
+  width: 300px;
+  height: 200px;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
